@@ -66,9 +66,6 @@ Este projeto implementa um algoritmo de coordenação com exclusão mútua centr
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
-## Licença
-
-Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Contato
 
